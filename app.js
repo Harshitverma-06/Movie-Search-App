@@ -35,9 +35,8 @@ async function getData(movieName) {
     } else {
       return data;
     }
-  } catch (err) {
-    displayError("something went wrong");
-  } finally {
+  } 
+  finally {
     loader.style.display = "none";
     document.body.classList.remove("blur");
     card.style.display = "flex";

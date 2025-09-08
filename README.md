@@ -1,4 +1,7 @@
 # 🎬Movie Search App
+[Live Demo](https://harshitverma-06.github.io/Movie-Search-App/)
+
+
 
 A simple and responsive web app to search movies using the [OMDB API](https://www.omdbapi.com/).  
 
